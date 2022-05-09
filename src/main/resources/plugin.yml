@@ -1,0 +1,12 @@
+name: DamageIndicator
+version: '${project.version}'
+main: me.almana.damageindicator.DamageIndicator
+api-version: 1.18
+author: [AlmanaX21]
+commands:
+  damageindicator:
+    description: The all util command for the plugin.
+    permission: damageindicator.admin
+  playerstat:
+    description: Gets damage stats of player
+    permission: damageindicator.stats
