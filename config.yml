@@ -1,0 +1,22 @@
+#
+#
+#   Plugin by AlmanaX21
+#
+#
+
+
+#   If you are having any issues, simply disable the plugin here.
+
+ENABLE_PLUGIN: true
+
+#   If damage indicator should be shown for only player
+
+ONLY_PLAYER: true
+
+#   Only change if you know what you are doing
+#   Offset control for armour stand indicators
+
+LOCATION:
+ X: 0
+ Y: 2
+ Z: 0
